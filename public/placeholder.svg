@@ -1,0 +1,21 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1F2937"/>
+  <circle cx="400" cy="300" r="150" fill="url(#paint0_radial)"/>
+  <path d="M400 200L425 250H375L400 200Z" fill="white"/>
+  <path d="M400 400L375 350H425L400 400Z" fill="white"/>
+  <path d="M300 300L350 275V325L300 300Z" fill="white"/>
+  <path d="M500 300L450 325V275L500 300Z" fill="white"/>
+  <circle cx="400" cy="300" r="50" fill="#1F2937"/>
+  <circle cx="400" cy="300" r="40" fill="url(#paint1_linear)"/>
+  <text x="400" y="315" font-family="Arial" font-size="36" font-weight="bold" fill="white" text-anchor="middle">AI</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 300) rotate(90) scale(150)">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.1"/>
+    </radialGradient>
+    <linearGradient id="paint1_linear" x1="360" y1="260" x2="440" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+</svg> 
