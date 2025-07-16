@@ -55,7 +55,7 @@ export default function Footer() {
               viewport={{ once: true }}
               className="text-xs text-slate-500 dark:text-slate-500 mt-2 flex items-center justify-center md:justify-start"
             >
-              © {currentYear} - Built with by EchoSphere
+              © {currentYear} - Built By EchoSphere
             </motion.p>
           </div>
           

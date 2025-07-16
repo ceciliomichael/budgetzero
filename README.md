@@ -47,7 +47,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/[YOUR_USERNAME]/budgetzero.git
+    git clone https://github.com/ceciliomichael/budgetzero.git
     cd budgetzero
     ```
 
@@ -79,7 +79,7 @@ The source code is made available for portfolio review and demonstration purpose
 
 ### **To request permission to use this software, you must contact me via email:**
 
-📧 **[your.email@example.com](mailto:your.email@example.com)**
+📧 **[ghort5678@gmail.com](mailto:ghort5678@gmail.com)**
 
 Please provide a detailed description of your intended use case. All requests will be reviewed on a case-by-case basis.
 
@@ -87,8 +87,8 @@ Please provide a detailed description of your intended use case. All requests wi
 
 Given the licensing terms, direct contributions (i.e., pull requests) are not accepted at this time.
 
-However, I am open to feedback and suggestions! If you have an idea for a new feature, have found a bug, or want to provide feedback on the design, please feel free to open an issue in the [Issues tab](https://github.com/[YOUR_USERNAME]/budgetzero/issues) or reach out to me via the email provided above.
+However, I am open to feedback and suggestions! If you have an idea for a new feature, have found a bug, or want to provide feedback on the design, please feel free to open an issue in the [Issues tab](https://github.com/ceciliomichael/budgetzero/issues) or reach out to me via the email provided above.
 
 ---
 
-Crafted with ❤️ by [Your Name]
+Crafted by EchoSphere
