@@ -71,23 +71,19 @@ To get a local copy up and running, follow these simple steps.
 4.  **Analyze Your Habits**: Navigate to the `Analytics` page to see detailed charts and visualizations of where your money is going.
 5.  **Export Your Data**: For peace of mind, you can export all your data into a single JSON file from the settings page.
 
-## 📄 License & Contact
+## 📄 License
 
-**This is not a standard open-source project.**
+This project is open source and licensed under the MIT License. You are free to use this code for personal projects, educational purposes, and other creative endeavors.
 
-The source code is made available for portfolio review and demonstration purposes only. You may review the code to understand the implementation, but you are **not permitted** to use, copy, modify, distribute, or sublicense this code for any personal or commercial purposes without explicit written permission.
+## 💬 Contact
 
-### **To request permission to use this software, you must contact me via email:**
+I'm available for freelance work and open to discussing new projects. If you have a project in mind, want to collaborate, or just want to connect, feel free to reach out.
 
 📧 **[ghort5678@gmail.com](mailto:ghort5678@gmail.com)**
 
-Please provide a detailed description of your intended use case. All requests will be reviewed on a case-by-case basis.
-
 ## 🤝 Contributing
 
-Given the licensing terms, direct contributions (i.e., pull requests) are not accepted at this time.
-
-However, I am open to feedback and suggestions! If you have an idea for a new feature, have found a bug, or want to provide feedback on the design, please feel free to open an issue in the [Issues tab](https://github.com/ceciliomichael/budgetzero/issues) or reach out to me via the email provided above.
+Feedback and suggestions are always welcome! If you find a bug or have an idea for a new feature, please open an issue in the [Issues tab](https://github.com/ceciliomichael/budgetzero/issues). While direct contributions are not the primary focus, all feedback is appreciated to make the project better.
 
 ---
 
