@@ -1,7 +1,7 @@
 # BudgetZero: The Ultimate Personal Finance OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user/repo/main/placeholder.svg" alt="BudgetZero Hero Image" width="800"/>
+  <img src="https://cecilio-portfolio.vercel.app/_next/image?url=https%3A%2F%2Fjojtfgzruiewlwpcalbh.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fportfolio-images%2F99381283-02cb-4102-af47-3e046df211ce.jpeg&w=3840&q=75" alt="BudgetZero Hero Image" width="800"/>
 </p>
 
 <p align="center">
